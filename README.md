@@ -1,2 +1,2 @@
 # bling-erp-sdk
-An unofficial client for the Bling ERP SDK
+An unofficial client for the Bling ERP API

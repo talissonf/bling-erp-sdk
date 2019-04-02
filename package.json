@@ -2,9 +2,13 @@
   "name": "bling-erp-sdk",
   "version": "0.0.1",
   "description": "",
-  "main": "main.js",
+  "main": "lib/bling.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talissonf/bling-erp-sdk"
   },
   "author": "Talisson Ferreira <talissonf@gmail.com>",
   "license": "ISC",
